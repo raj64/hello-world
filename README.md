@@ -11,3 +11,8 @@ I then started making edits in VS Code??
 an addition from my local computer
 
 a new addition from my computer - testing push
+
+Testing in RStudio
+
+Make local changes, save, commit - this is a line from R Studio
+
